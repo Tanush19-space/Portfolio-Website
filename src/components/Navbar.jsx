@@ -102,3 +102,10 @@ export default function Navbar({ dark, setDark }) {
     </motion.header>
   );
 }
+
+
+
+
+
+
+

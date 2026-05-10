@@ -37,3 +37,14 @@ export default function Skills() {
     </Section>
   );
 }
+
+
+
+
+
+
+
+
+
+
+
